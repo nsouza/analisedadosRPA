@@ -14,5 +14,8 @@ Baixar as atualizações
 Ativar ambiente virtual
 ### source .venv/Scripts/activate
 
+Atualizar projeto 
+### git pull origin main
+
 
 
