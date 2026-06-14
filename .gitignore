@@ -1,18 +1,38 @@
+# Arquivos de ambiente
+.env
+*.env
 
-
-# VSCode
-.vscode/
-
-# Jupyter checkpoints
-.ipynb_checkpoints/
-
-# Python cache
-__pycache__/
-*.pyc
-
-# Arquivos de sistema
+# Arquivos temporários e de sistema
+*.log
+*.tmp
+*.swp
 *.DS_Store
 Thumbs.db
-desktop.ini
+
+# Pastas específicas do VSCode
+.vscode/
+
+# Arquivos de notebook Jupyter
+.ipynb_checkpoints/
+
+# Arquivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de configuração locais
+*.config
+*.local
+
+# Arquivos Excel ou dados brutos (se não quiser versionar)
+*.xlsx
+*.xls
+
+# Arquivos do sistema Linux
 *~
+
+# Arquivos do sistema Windows
+desktop.ini
+
 
