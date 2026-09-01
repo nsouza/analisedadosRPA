@@ -8,9 +8,6 @@ Baixar os arquivos do git
 Verificar a brach
 ### git branch
 
-Baixar as atualizações
-### git pull
-
 Ativar ambiente virtual
 ### source .venv/Scripts/activate
 

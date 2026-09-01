@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../24-DadosRonda"
+		},
+		{
+			"path": "../00-Utils"
+		},
+		{
+			"path": "../../27-PROJETOS/sistemaCadastro"
+		},
+		{
+			"path": "../../27-PROJETOS/cadastro"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
